@@ -5,13 +5,18 @@ public class Hello {
 
         System.out.println("Hello 1 ");
 
-        System.out.println("Hello 2");
 
         System.out.println("Task 1 kodları yazıldı.");
 
         System.out.println("Task 2 kodları yazıldı.");
 
         System.out.println("Task 3 kodları yazıldı.");
+
+        System.out.println("Task 5 kodları yazıldı.");
+
+        for(int i = 0; i <10;  i++){
+            System.out.println("Task 4 yapıldı.");
+        }
 
 
     }
