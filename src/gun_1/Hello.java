@@ -11,6 +11,8 @@ public class Hello {
 
         System.out.println("Task 2 kodları yazıldı.");
 
+        System.out.println("Task 3 kodları yazıldı.");
+
 
     }
 }
